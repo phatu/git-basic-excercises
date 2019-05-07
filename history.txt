@@ -1,0 +1,616 @@
+    1  cd b.html
+    2  cd b
+    3  cd learn
+    4  cd Desktop/learn
+    5  b
+    6  ls
+    7  node -v
+    8  sudo apt install nodejs
+    9  node b.html
+   10  node b.js
+   11  cd Desktop
+   12  cd learn
+   13  a.js
+   14  cd Desktop
+   15  /home/makushu/Desktop/a.html
+   16  node b.js
+   17  cd Desktop
+   18  node a.html
+   19  cd Desktop
+   20  cd Desktop
+   21  cd learn
+   22  node a.js
+   23  cd Desktop
+   24  cd Desktop
+   25  cd learn
+   26  node -v
+   27  a.js
+   28  cd learn
+   29  cd Desktop
+   30  cd learn
+   31  node a.js
+   32  cd learn
+   33  node a.js
+   34  cd learn
+   35  node a.js
+   36  cd learn
+   37  cd learn
+   38  node a.js
+   39  cd Desktop
+   40  cd learn
+   41  node a.js
+   42  cd learn
+   43  node a.js
+   44  cd learn
+   45  node blackjack.js
+   46  cd learn
+   47  blackjack.html
+   48  cd learn
+   49  node blackjack.html
+   50  sudo apt install notepad-plus-plu
+   51  sudo apt install notepad-plus-plus
+   52  sudo apt install notepad-plus-plus
+   53  cd Desktop
+   54  cd learn
+   55  node sum.js
+   56  cd Desktop
+   57  cd learn
+   58  node arrays.js
+   59  cd Desktop
+   60  cd learn
+   61  node arrays.js
+   62  cd Desktop
+   63  cd submit
+   64  two.js
+   65  cd Desktop
+   66  cd submit
+   67  node one.js
+   68  cd Desktop
+   69  cd submit
+   70  node five.js
+   71  cd Desktop
+   72  cd submit
+   73  node four.js
+   74  cd Desktop
+   75  cd submit
+   76  node three.js
+   77  cd Desktop
+   78  cd submit
+   79  node two.js
+   80  cd Desktop
+   81  cd submit
+   82  node three.js
+   83  sudo snap install notepad-plus-plus
+   84  sudo snap install --classic notepadqq
+   85  cd submit
+   86  cd Desktop
+   87  cd submit
+   88  node five.js
+   89  cd Desktop
+   90  cd submit
+   91  six.js
+   92  node six.js
+   93  cd Desktop
+   94  cd submit
+   95  node five.js
+   96  cd Desktop
+   97  cd submit
+   98  node six.js
+   99  cd submit
+  100  node six.js
+  101  cd Desktop
+  102  node palindrome.js
+  103  cd Desktop
+  104  cd practice
+  105  node regex.js
+  106  cd Music
+  107  cd Tasha Cobbs Smile.mp3
+  108  find Mondat
+  109  find Monday
+  110  find practice
+  111  cd Desktop
+  112  find practice
+  113  ls Desktop
+  114  cd Desktop
+  115  mkdir myProject
+  116  cd myProject
+  117  rmdir myProject
+  118  cd Desktop
+  119  rmdir
+  120  cd Desktop
+  121  rmdir myProject
+  122  mkdir myProject
+  123  cd myProject
+  124  sudo apt install mpd ncmpcpp
+  125  sudo vim /etc/mpd.conf
+  126  rmdir Ncmpcpp
+  127  sudo apt get install moc
+  128  cd Music
+  129  mkdir myProject
+  130  cd myProject
+  131  app.js
+  132  create app.js
+  133  cat app.js
+  134  touch app.js
+  135  cd Desktop
+  136  cd myProject
+  137  cd Desktop
+  138  rmdir myProject
+  139  cd myProject
+  140  cd Desktop
+  141  --
+  142  --cd
+  143  cd Desktop
+  144  mkdir myProject
+  145  cd myProject
+  146  cat app.js
+  147  touch app.js
+  148  cd Desktop
+  149  cd --Desktop
+  150  cd Desktop
+  151  cd /
+  152  cd Desktop
+  153  cd myProject
+  154  cd //
+  155  cd/
+  156  cd /
+  157  cd 
+  158  cd Desktop
+  159  mkdir myProject2
+  160  cd myProject2
+  161  cd
+  162  cd myProject
+  163  cd Desktop
+  164  cd myProject
+  165  cp app.js /myProject2
+  166  cp app.js myProject2
+  167  cp app.js /myProject2
+  168  cp app.js myProject2
+  169  cp app.js -myProject2
+  170  cp [app.js] myProject myProject2
+  171  cp app.js myProject myProject2
+  172  cp myProject myProject2
+  173  cd
+  174  cp myProject myProject2
+  175  cd Desktop
+  176  cp myProject myProject2
+  177  cp app.js myProject myProject2
+  178  cd
+  179  cp app.js myProject myProject2
+  180  cd Desktop
+  181  cd myProject2
+  182  cp app.js myProject myProject2
+  183  cp app.js myProject
+  184  cp app.js
+  185  --help
+  186  cp --help
+  187  man cp
+  188  cd
+  189  cd Desktop
+  190  cp app.js /Desktop/myProject2
+  191  cd myProject
+  192  cp app.js /Desktop/myProject2
+  193  cd
+  194  cd Desktop
+  195  cp /Desktop/myProject /Desktop/myProject2
+  196  cp app.js /Desktop/myProject2
+  197  cp myProject/app.js /Desktop/myProject2
+  198  cp /myProject/app.js /Desktop/myProject2
+  199  cd myProject
+  200  cp app.js ../myProject2/
+  201  rmdir myProject
+  202  cd Desktop
+  203  rmdir myProject
+  204  cd
+  205  cd Desktop
+  206  rmdir myProject
+  207  cd Desktop
+  208  rmdir myProject
+  209  cd myProject
+  210  rmdir myProject
+  211  cd myProjects
+  212  cd
+  213  cd Desktop
+  214  cd myProject
+  215  rmdir myProject
+  216  cd Desktop
+  217  cd
+  218  cd Desktop
+  219  rmdir myProjects
+  220  rmdir myProject
+  221  rmdir myProject2
+  222  sudo apt-get install sox
+  223  sudo apt-get install sox libsox-fmt-all
+  224  play *mp3
+  225  play all for love.mp3
+  226  cd Music
+  227  all for love.mp3
+  228  greatGod.mpga
+  229  play greatGod.mpga
+  230  play heaven.mp3
+  231  I AM THEY-To the One(Audio)
+  232  I AM THEY-To the One(Audio).mp3
+  233  I AM THEY - To the One (Audio)
+  234  I AM THEY - To the One (Audio).mp3
+  235  Kierra Sheard - Indescribable.mp3
+  236  Indescribable
+  237  play Indescribable
+  238  play Indescribable.mp3
+  239  play greatGod.mpga
+  240  play Indescribable.mp3
+  241  play *mp3
+  242  cd 
+  243  cd Desktop
+  244  cd iamthey
+  245  play *mp3
+  246  cd Desktop
+  247  rmdir myProject
+  248  cd myProject
+  249  node app.js
+  250  cd
+  251  cd Desktop
+  252  mkdir again
+  253  cd again
+  254  rmdir again
+  255  cd
+  256  cd Desktop
+  257  rmdir again
+  258  cd myProject
+  259  rm app.js
+  260  cd
+  261  cd Desktop
+  262  rmdir myProject
+  263  cd myProject2
+  264  rm app.js
+  265  cd
+  266  cd Desktop
+  267  rmdir myProject2
+  268  mkdir myProject
+  269  cd myProject
+  270  touch app.js
+  271  cd 
+  272  cd Desktop
+  273  mkdir myProject2
+  274  cdcd
+  275  cd myProject
+  276  cp app.js ../myProject2
+  277  ls 
+  278  app.js
+  279  cd
+  280  cd Desktop
+  281  mkdir
+  282  mkdir iamthey
+  283  apt install nano
+  284  nano
+  285  cd Desktop
+  286  cd iamthey
+  287  play *mp3
+  288  gsettings reset-recursively org.mate.panel
+  289  cd Desktop
+  290  cd
+  291  cd Desktop
+  292  cd practice
+  293  node norepeat.js
+  294  node norepeat.jsnode norepeat.jsnode norepeat.jsnode norepeat.js
+  295  cd Desktop
+  296  cd
+  297  cd Desktop
+  298  cd practiceec8e9d6b8863b3675a1f30f1ae8ece305d132aba
+
+  299  node norepeat.js
+  300  cd Desktop
+  301  cd practice
+  302  multiplies.js
+  303  node multiplies.js
+  304  cd Desktop
+  305  cd
+  306  cd Desktop
+  307  cd practice
+  308  node multiplies.js
+  309  cd
+  310  cd Desktop
+  311  cd practice
+  312  node trial.js
+  313  cd Desktop
+  314  cd practice
+  315  node trail.js
+  316  node trial.js
+  317  cd Desktop
+  318  cd
+  319  cd Desktop
+  320  cd practice
+  321  node norepeat.js
+  322  cd Desktop
+  323  cd practice
+  324  node muskify.js
+  325  cd Desktop
+  326  cd practice
+  327  node palindrome.js
+  328  cd Desktopcd
+  329  cd
+  330  cd Desktop
+  331  cd iamthey
+  332  play *mp3
+  333  cd Desktop
+  334  cd practice
+  335  node squared.js
+  336  cd Desktop
+  337  cd practice
+  338  node file_1.js
+  339  cd practice
+  340  node file_1.js
+  341  cd Desktop
+  342  cd
+  343  cd Desktop
+  344  cd practice
+  345  node file_1.js
+  346  node file_2.js
+  347  cd
+  348  cd Desktop
+  349  cd practice
+  350  node person.js
+  351  node thePersrson.js
+  352  cd
+  353  cd Desktop
+  354  cd practice
+  355  node thePerson.js
+  356  cd practice
+  357  node dice.js
+  358  node person.js
+  359  cd Desktop
+  360  cd practice
+  361  node dice.js
+  362  cd Desktop
+  363  cd practice
+  364  node one.js
+  365  cd
+  366  mkdir git-basic-exrecises
+  367  rmdir git-basic-exercises
+  368  cd
+  369  rmdir git-basic-exercises
+  370  rmvdir git-basic-exercises
+  371  cd
+  372  cd Desktop
+  373  mkdir git-basic-exercises
+  374  cd git-basic-exercises
+  375  ls -a
+  376  git init
+  377  ls -a
+  378  git status
+  379  touch README.md
+  380  ls -a
+  381  git status
+  382  git log
+  383  cd Desktop
+  384  cd practice
+  385  node lowest.js
+  386  node camelcase.js
+  387  cd Desktop
+  388  cd practice
+  389  node noFive.js
+  390  cd Desktop
+  391  cd practice
+  392  node highLow.js
+  393  cd Desktop
+  394  cd practice
+  395  node squred.js
+  396  cd Desktop
+  397  cd practice
+  398  node squred.js
+  399  cd Desktop
+  400  cd practice
+  401  node squred.js
+  402  cd Desktop
+  403  cd practice
+  404  node phoneNum.js
+  405  cd Desktop
+  406  cd practice
+  407  node minMax.js
+  408  cd Desktop
+  409  cd practice
+  410  node noFive.js
+  411  cd Desktop
+  412  cd practice
+  413  node noFive.js
+  414  cd Desktop
+  415  cd practice
+  416  node noFive.js
+  417  cd Desktop
+  418  cd practice
+  419  node vowels.js
+  420  cd Deskto[
+  421  cd Desktop
+  422  cd practice
+  423  node pigit.js
+  424  cd practice
+  425  cd Desktop
+  426  cd
+  427  cd Desktop
+  428  cd practice
+  429  node pigit.js
+  430  cd
+  431  cd Desktop
+  432  cd practice
+  433  node longestWord.js
+  434  cd Desktop
+  435  cd practice
+  436  node pigit.js
+  437  cd Desktop
+  438  cd practice
+  439  node squred.js
+  440  cd Desktop
+  441  cd practice
+  442  node isint.js
+  443  cd Desktop
+  444  cd practice
+  445  node multiply.js
+  446  npm install jasmine
+  447  npm install -g jasmine
+  448  sudo apt install jasmine
+  449  npm -v
+  450  node -v
+  451  sudo apt install npm
+  452  sudo apt install jasmine
+  453  cd Desktop
+  454  cd practice
+  455  node divisible.js
+  456  cd Desktop
+  457  cd practice
+  458  node xo.js
+  459  cd Desktop
+  460  c practice
+  461  cd practice
+  462  node reversenum.js
+  463  cd Desktop
+  464  cd practice
+  465  node isprime.js
+  466  cd Desktop
+  467  cd practice
+  468  node whitespace.js
+  469  cd Desktop
+  470  cd practice
+  471  node formatstrings.js
+  472  cd Desktop
+  473  cd practice
+  474  node descending.js
+  475  cd desktop
+  476  cd Desktop
+  477  cd practice
+  478  node abbreviate.js
+  479  cd Desktop
+  480  cd practice
+  481  node highLow.js
+  482  node endswith.js
+  483  camelcase.js
+  484  cd
+  485  cd Desktop
+  486  cd practice
+  487  node camelcase.js
+  488  cd
+  489  cd Desktop
+  490  cd practice
+  491  node nextVersion.js
+  492  cd
+  493  cd Desktop
+  494  cd practice
+  495  node iqtest.js
+  496  cd Desktop
+  497  cd
+  498  cd Desktop
+  499  cd practice
+  500  node divisibleby.js
+  501  cd
+  502  cd Desktop
+  503  cd practice
+  504  node sortarrays.js
+  505  cd Desktop
+  506  cd
+  507  cd Desktop
+  508  cd practice
+  509  node between.js
+  510  cd
+  511  cd Desktop
+  512  cd practice
+  513  node uniquenum.js
+  514  cd
+  515  cd Desktop
+  516  cd practice
+  517  node passvalidation.js
+  518  cd
+  519  cd Desktop
+  520  mkdir git-basic-exercises
+  521  cd
+  522  cd Desktop
+  523  mkdir git-basic-exercises
+  524  cd git-basic-exercises
+  525  git init
+  526  ls
+  527  git status
+  528  touch README.md
+  529  ls a
+  530  ls -a
+  531  git status
+  532  git log
+  533  git checkout
+  534  git checkout README.md
+  535  git checkout <README.md>
+  536  git checkout -- README.md
+  537  git checkout -- <README.md>
+  538  ls
+  539  git reset git-basic-exercies README.md
+  540  git reset git-basic-exercies <README.md>
+  541  git status
+  542  commit -m "initial commit"
+  543  commit -m "initialcommit"
+  544  git commit -m
+  545  git log
+  546  q
+  547  git commit -m README.md
+  548  git commit -m "README.md"
+  549  ls
+  550  git log
+  551  git commit -m "initialcommit"
+  552  git commit -m "initialcommit"cd
+  553  cd
+  554  cd Desktop
+  555  cd git-basic-exercises 
+  556  git commit -m "initial commit"
+  557  git status
+  558  git commit -m "initial commit"
+  559  git config --global "phatu.makushu@umuzi.org"
+  560  git config --global user.email "phatu.makushu@umuzi.org"
+  561  git config --global user.name "phatu"
+  562  git commit -m "initial commit"
+  563  git log
+  564  git commit -m "initial commit"
+  565  git config --global user.email phatu.makushu@umuzi.org
+  566  git config --global user.name phatu
+  567  git commit -m "initial commit"
+  568  git log
+  569  git status
+  570  git add README.md
+  571  git status
+  572  git commit -m "initial commit"
+  573  git log
+  574  q
+  575  nano README.md
+  576  cat README.md
+  577  git status
+  578  git commit -m "second commit"
+  579  status
+  580  git add README.md
+  581  git commit -m "second commit"
+  582  nano README.md
+  583  git add README.md
+  584  git commit -m "third commit"
+  585  git log
+  586  q
+  587  git checkout
+  588  git checkout ec8e9d6b8863b3675a1f30f1ae8ece305d132aba
+  589  cat README.md
+  590  git checkout master
+  591  cat README.md
+  592  git branch
+  593  git branch milkshake-flavours
+  594  git branch 
+  595  git branch
+  596  git checkout
+  597  git branch
+  598  git checkout milkshake-flavours
+  599  git branch
+  600  nano milkshakes.md
+  601  git status
+  602  git add milkshake-flavours "added initial flavours"
+  603  git add milkshake-flavours
+  604  git add milkshakes.md
+  605  git commit milkshakes.md "added initial flavours"
+  606  git commit -m "added initial flavours"
+  607  git checkout master
+  608  git status
+  609  git branch
+  610  git branch history
+  611  git checkout history
+  612  git branch
+  613  git log
+  614  history.txt
+  615  history > history.txt
